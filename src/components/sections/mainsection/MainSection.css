@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab");
+.mainSection {
+  background: #12a8e0;
+  padding: 150px 0;
+  position: relative;
+  font-family: "Roboto Slab", serif;
+}
+a {
+  color: #fff;
+  padding: 0 8px;
+}
+a:hover {
+  color: #f0f0f0;
+}
+@media only screen and (max-width: 991px) {
+  .mainSection {
+    text-align: center;
+    justify-content: center;
+  }
+}
