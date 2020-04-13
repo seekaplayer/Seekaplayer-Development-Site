@@ -18,7 +18,7 @@ const Projects = () => {
           <Col xs={12} md={4} className="mt-3">
             <Project
               image="./images/seekaplayer-dev.png"
-              name="Streamer Search"
+              name="Seekaplayer Portfolio"
               description="This is my portfolio website. The website you're currently on. It has all my projects listed."
               link="https://seekaplayer.dev"
               target="_blank"
@@ -28,7 +28,7 @@ const Projects = () => {
             <Project
               image="./images/twitch-streamer-search.png"
               name="Streamer Search"
-              description="Streamer Search uses Twitch's Helix API. It finds the Twitch User you type in."
+              description="Streamer Search uses Twitch's helix API. It finds the Twitch User you type in."
               link="https://twitch-streamer-search.seekaplayer.dev"
               target="_blank"
             />
@@ -36,8 +36,8 @@ const Projects = () => {
           <Col xs={12} md={4} className="mt-3">
             <Project
               image="./images/twitch-streamer-search-2.png"
-              name="Streamer Search"
-              description="Streamer Search uses Twitch's V5 Kraken API. It queries Twitch Users as you type in a name."
+              name="Streamer Search Version 2"
+              description="Streamer Search uses Twitch's V5 kraken API. It queries Twitch Users as you type in a name."
               link="https://twitch-streamer-search-2.seekaplayer.dev"
               target="_blank"
             />

@@ -17,3 +17,9 @@ hr {
 .btn-primary:hover {
   background: #12a8e0;
 }
+.card {
+  min-height: 450px;
+}
+.card-text {
+  height: 6.5em;
+}
