@@ -20,7 +20,7 @@ const Projects = () => {
               image="./images/seekaplayer-dev.png"
               name="Streamer Search"
               description="This is my portfolio website. The website you're currently on. It has all my projects listed."
-              link="https://twitch-streamer-search.seekaplayer.dev"
+              link="https://seekaplayer.dev"
               target="_blank"
             />
           </Col>
@@ -38,7 +38,7 @@ const Projects = () => {
               image="./images/twitch-streamer-search-2.png"
               name="Streamer Search"
               description="Streamer Search uses Twitch's V5 Kraken API. It queries Twitch Users as you type in a name."
-              link="https://twitch-streamer-search.seekaplayer.dev"
+              link="https://twitch-streamer-search-2.seekaplayer.dev"
               target="_blank"
             />
           </Col>
