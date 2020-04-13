@@ -15,29 +15,29 @@ const Projects = () => {
           </Col>
         </Row>
         <Row className="mt-4">
-          <Col xs={12} md={4} className="mt-2">
+          <Col xs={12} md={4} className="mt-3">
             <Project
-              image="./images/twitch-streamer-search.png"
+              image="./images/seekaplayer-dev.png"
               name="Streamer Search"
-              description="Streamer Search uses Twitch's Kraken API. It finds the Twitch User you type in."
+              description="This is my portfolio website. The website you're currently on. It has all my projects listed."
               link="https://twitch-streamer-search.seekaplayer.dev"
               target="_blank"
             />
           </Col>
-          <Col xs={12} md={4} className="mt-2">
+          <Col xs={12} md={4} className="mt-3">
+            <Project
+              image="./images/twitch-streamer-search.png"
+              name="Streamer Search"
+              description="Streamer Search uses Twitch's Helix API. It finds the Twitch User you type in."
+              link="https://twitch-streamer-search.seekaplayer.dev"
+              target="_blank"
+            />
+          </Col>
+          <Col xs={12} md={4} className="mt-3">
             <Project
               image="./images/twitch-streamer-search-2.png"
               name="Streamer Search"
-              description="Streamer Search uses Twitch's Kraken API. It finds the Twitch User you type in."
-              link="https://twitch-streamer-search.seekaplayer.dev"
-              target="_blank"
-            />
-          </Col>
-          <Col xs={12} md={4} className="mt-2">
-            <Project
-              image="./images/twitch-streamer-search.png"
-              name="Streamer Search"
-              description="Streamer Search uses Twitch's Kraken API. It finds the Twitch User you type in."
+              description="Streamer Search uses Twitch's V5 Kraken API. It queries Twitch Users as you type in a name."
               link="https://twitch-streamer-search.seekaplayer.dev"
               target="_blank"
             />

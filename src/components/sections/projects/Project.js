@@ -10,7 +10,7 @@ const Project = ({ image, name, description, link, target }) => {
           <Card.Text>{description}</Card.Text>
           <a
             target={target}
-            className="btn btn-primary"
+            className="btn btn-primary btn-lg"
             href={link}
             variant="primary"
           >

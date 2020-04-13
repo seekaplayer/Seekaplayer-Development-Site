@@ -8,3 +8,12 @@ hr {
   height: 0;
   width: 25%;
 }
+.btn-primary,
+.btn-primary:visited {
+  background: #212121;
+  color: #fff;
+  border: none;
+}
+.btn-primary:hover {
+  background: #12a8e0;
+}
