@@ -27,11 +27,10 @@ const MainSection = () => {
 
       <Container>
         <Row>
-          <Col sm={{ span: 12 }} md={{ span: 12 }} lg={{ span: 6 }}>
+          <Col sm={12} md={12} lg={8}>
             <div>
               <h1 className="heading">
-                Welcome to my Portfolio, Below is a list of projects that I've
-                completed or that I'm current working on.
+                Hello, my name is Seekaplayer and welcome to my portfolio!
               </h1>
             </div>
           </Col>
@@ -41,6 +40,7 @@ const MainSection = () => {
             <div className="mt-5">
               <TwitchIcon IconSize={iconSize} />
               <GitHubIcon IconSize={iconSize} />
+              <TwitterIcon IconSize={iconSize} />
               <InstagramIcon IconSize={iconSize} />
               <YouTubeIcon IconSize={iconSize} />
               <FacebookIcon IconSize={iconSize} />

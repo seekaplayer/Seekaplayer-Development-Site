@@ -5,6 +5,12 @@
   position: relative;
   font-family: "Roboto Slab", serif;
 }
+h1 {
+  font-size: 3em;
+  font-weight: bold;
+  line-height: 1.5em;
+  color: #fff;
+}
 a {
   color: #fff;
   padding: 0 8px;
